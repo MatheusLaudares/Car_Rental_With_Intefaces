@@ -1,0 +1,15 @@
+/Users/matheuslaudares/Desktop/C#/Secao14_ComInterfaces/Secao14_ComInterfaces/bin/Debug/net6.0/Secao14_ComInterfaces
+/Users/matheuslaudares/Desktop/C#/Secao14_ComInterfaces/Secao14_ComInterfaces/bin/Debug/net6.0/Secao14_ComInterfaces.deps.json
+/Users/matheuslaudares/Desktop/C#/Secao14_ComInterfaces/Secao14_ComInterfaces/bin/Debug/net6.0/Secao14_ComInterfaces.runtimeconfig.json
+/Users/matheuslaudares/Desktop/C#/Secao14_ComInterfaces/Secao14_ComInterfaces/bin/Debug/net6.0/Secao14_ComInterfaces.dll
+/Users/matheuslaudares/Desktop/C#/Secao14_ComInterfaces/Secao14_ComInterfaces/bin/Debug/net6.0/Secao14_ComInterfaces.pdb
+/Users/matheuslaudares/Desktop/C#/Secao14_ComInterfaces/Secao14_ComInterfaces/obj/Debug/net6.0/Secao14_ComInterfaces.csproj.AssemblyReference.cache
+/Users/matheuslaudares/Desktop/C#/Secao14_ComInterfaces/Secao14_ComInterfaces/obj/Debug/net6.0/Secao14_ComInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+/Users/matheuslaudares/Desktop/C#/Secao14_ComInterfaces/Secao14_ComInterfaces/obj/Debug/net6.0/Secao14_ComInterfaces.AssemblyInfoInputs.cache
+/Users/matheuslaudares/Desktop/C#/Secao14_ComInterfaces/Secao14_ComInterfaces/obj/Debug/net6.0/Secao14_ComInterfaces.AssemblyInfo.cs
+/Users/matheuslaudares/Desktop/C#/Secao14_ComInterfaces/Secao14_ComInterfaces/obj/Debug/net6.0/Secao14_ComInterfaces.csproj.CoreCompileInputs.cache
+/Users/matheuslaudares/Desktop/C#/Secao14_ComInterfaces/Secao14_ComInterfaces/obj/Debug/net6.0/Secao14_ComInterfaces.dll
+/Users/matheuslaudares/Desktop/C#/Secao14_ComInterfaces/Secao14_ComInterfaces/obj/Debug/net6.0/refint/Secao14_ComInterfaces.dll
+/Users/matheuslaudares/Desktop/C#/Secao14_ComInterfaces/Secao14_ComInterfaces/obj/Debug/net6.0/Secao14_ComInterfaces.pdb
+/Users/matheuslaudares/Desktop/C#/Secao14_ComInterfaces/Secao14_ComInterfaces/obj/Debug/net6.0/Secao14_ComInterfaces.genruntimeconfig.cache
+/Users/matheuslaudares/Desktop/C#/Secao14_ComInterfaces/Secao14_ComInterfaces/obj/Debug/net6.0/ref/Secao14_ComInterfaces.dll
